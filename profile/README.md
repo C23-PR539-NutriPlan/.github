@@ -1,6 +1,6 @@
 <h1 align="center">NutriPlan</h1>
 <p align="center">
-  <img src="https://raw.githubusercontent.com/C23-PR539-NutriPlan/.github/main/profile/Logo.jpg" alt="NutriPlan Logo">
+  <img src="https://github.com/C23-PR539-NutriPlan/.github/blob/main/profile/Logo1.png?raw=true" alt="NutriPlan Logo">
 </p>
 <h3 align="center">Bangkit 2023 Product Based Capstone Project</h3>
 <h4 align="center">Created by : C23-PR539 Team</h4>
