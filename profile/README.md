@@ -22,4 +22,4 @@ Hello everyone 😊, we are from C22-PS165. We consist of 6 people and these are
 <br>
 
 ## Theme 
-Human Gealthcare and Living Wellbeing
+Human Healthcare and Living Wellbeing
