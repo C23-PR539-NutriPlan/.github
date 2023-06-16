@@ -8,7 +8,7 @@
 
 ## Introduction 👋
 ### Team ID: C23-PR539
-Hello everyone 😊, we are from C22-PS165. We consist of 6 people and these are our team members.
+Hello everyone 😊, we are from C23-PR539. We consist of 6 people and these are our team members.
 
 | Name | Bangkit ID | Learning Path | University |
 | :---: | :---: | :---: | :---: |
