@@ -24,7 +24,7 @@ Hello everyone 😊, we are from C23-PR539. We consist of 6 people and these are
 ## Theme 
 Human Healthcare and Living Wellbeing
 
-## Documentation 📑
+## Application Documentation 📑
 
 [**NutriPlan Download Link**](https://drive.google.com/file/d/1x6ZjLuAY3ddOJ8EunAvdKFwQyZGSUCmU/view?usp=sharing)
 
@@ -60,6 +60,8 @@ Human Healthcare and Living Wellbeing
   6.  Wait until the process done and you will be directed to recommendation menu
   7.  You can see your recommendation there
 
+## API  Documentation
+[**API Documentation**](https://docs.google.com/document/d/1TnBC2Sv2o6QI_wG4TCA7-nEBVItle4KMuL7BAeO7Sws/edit?usp=sharing)
 
 
 
