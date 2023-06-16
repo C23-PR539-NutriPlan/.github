@@ -23,3 +23,44 @@ Hello everyone 😊, we are from C22-PS165. We consist of 6 people and these are
 
 ## Theme 
 Human Healthcare and Living Wellbeing
+
+## Documentation 📑
+
+[**NutriPlan Download Link**](https://drive.google.com/file/d/1x6ZjLuAY3ddOJ8EunAvdKFwQyZGSUCmU/view?usp=sharing)
+
+### Getting Started
+- **Prerequisites**
+
+  1.  Android Operating System
+  2.  Internet connection
+
+- **Installation**
+
+  1.  Download the APK
+  2.  Install the APK
+
+### Usage
+- How to get recommendations for food?
+
+  1.  Register your email address
+  2.  Login to your account
+  3.  Answer the form question and click finish
+  4.  You will be directed to the main menu
+  5.  Click recommendation and click generate recommendation
+  6.  Wait until the process done and you will be directed to recommendation menu
+  7.  You can see your recommendation there
+
+- How to re generate recommendation?
+
+  1.  Login to your account
+  2.  Click recommendation menu
+  3.  Click the food you like
+  4.  Click the liked button
+  5.  Pick some of your favorites food then click generate recommendation
+  6.  Wait until the process done and you will be directed to recommendation menu
+  7.  You can see your recommendation there
+
+
+
+
+
